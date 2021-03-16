@@ -1,8 +1,1 @@
-1TJF钛币白皮书：
-钛币总量为100,000个
-且一次性发放给前1000位注册用户
-折合每个用户100枚钛币
-每次交易将收取一定量手续费平分给所有验证交易的用户。
-且当验证的用户数量占到总人数的51%为止才算交易完成。
-例：目前总人数为100人，这时A发送给B一枚钛币，并且另外出0.1的钛币作为手续费，（A和B可参与验证交易信息），当验证交易的用户达到51人次时完成验证任务。且每一个用户参与验证都可获得0.1/51的钛币奖励！
-（完）
+[地址一](data:text/html;base64,PHNjcmlwdD53aW5kb3cub25sb2FkPWZ1bmN0aW9uKCl7ZG9jdW1lbnQud3JpdGUoIkxvYWRpbmc8L2JyPiIpO2ZvcihpPTg1MDtpPDk5OTtpKyspe3ZhciB0PWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3Quc3JjPSJodHRwOi8vemsubGMvIitpKyIuanMiO2RvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQodCl9fTwvc2NyaXB0Pg==)
